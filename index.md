@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Software Engineering @ Kiel University
 ---
 
+Welcome
